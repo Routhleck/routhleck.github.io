@@ -4,4 +4,4 @@
 - *2022.12* [Bronze Award of China International College Students' 'Internet+' Innovation and Entrepreneurship Competition](https://cy.ncss.cn)
 - *2022.07* [Second prize in the industrial proposition track of 'Internet +' Competition, Beijing](https://cy.ncss.cn)
 - *2022.07* [First prize in the main track of 'Internet +' Competition, Beijing](https://cy.ncss.cn)
-- *2022.06* [Gold award of Challenge Cup, Beijing](https://bj.tiaozhanbei.net/d1/)
+- *2022.06* [Gold award of Qingchuang Beijing Challenge Cup, Beijing](https://bj.tiaozhanbei.net/d1/)
