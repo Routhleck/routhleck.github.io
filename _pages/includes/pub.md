@@ -1,6 +1,6 @@
 # 📝 Publications 
 
-## <span style="color:#0066cc; font-size:1.2em; border-bottom:2px solid #0066cc; padding-bottom:4px;">Journal Articles</span>
+## <span style="color:#0066cc; font-size:0.8em; border-bottom:2px solid #0066cc; padding-bottom:4px;">Journal Articles</span>
 
 - <div style="display:flex; margin-bottom:15px;">
   <div style="flex:1;">
@@ -22,7 +22,7 @@
   </div>
   </div>
 
-## <span style="color:#cc3300; font-size:1.2em; border-bottom:2px solid #cc3300; padding-bottom:4px;">Conference Papers</span>
+## <span style="color:#cc3300; font-size:0.8em; border-bottom:2px solid #cc3300; padding-bottom:4px;">Conference Papers</span>
 
 - <div style="display:flex; margin-bottom:15px;">
   <div style="flex:1;">
