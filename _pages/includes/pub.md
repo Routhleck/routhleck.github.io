@@ -5,7 +5,7 @@
 - <div style="display:flex; margin-bottom:15px;">
   <div style="flex:1;">
     <span style="font-weight:700; color:#0066cc; font-size:1.1em;">Nature Communications</span><br>
-    <a href="https://www.biorxiv.org/content/10.1101/2024.09.20.614111v2" style="font-size:1.05em; color:#333; text-decoration:none; font-weight:500; line-height:1.4;">Integrating Physical Units into High-Performance AI-Driven Scientific Computing</a>
+    <a href="https://doi.org/10.1038/s41467-025-58626-4" style="font-size:1.05em; color:#333; text-decoration:none; font-weight:500; line-height:1.4;">Integrating Physical Units into High-Performance AI-Driven Scientific Computing</a>
     <div style="color:#555; margin-top:4px; font-style:italic;">
       Chaoming Wang<sup>†</sup>, <strong>Sichao He</strong><sup>†</sup>, Shouwei Luo, Yuxiang Huan, Si Wu
     </div>
