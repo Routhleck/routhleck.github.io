@@ -1,4 +1,4 @@
-I am a Ph.D student from Academy for Advance Interdisciplinary Studies(AAIS), Peking University.
+I am a Ph.D student at Academy for Advance Interdisciplinary Studies(AAIS), Peking University.
 
 I graduated from School of Software Engineering, Beijing Jiaotong University with a bachelor's degree.
 
