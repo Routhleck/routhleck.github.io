@@ -4,6 +4,7 @@
 
 # 🎓 Event Attended
 - *2024.09.26 - 2024.09.29*, [The 17th annual meeting of the Chinese Society for Neuroscience, Suzhou](https://www.cns.org.cn/2024/index.html). As a poster presenter.
+- *2025.06.20 - 2025.06.23*, [The 7th Chinese Computational & Cognitive Neuroscience Conference, Xi'an](https://meeting2025.cns.org.cn/CCCN2025/).
 
 # 💬 Invited Talks
 There's no talks so far...
