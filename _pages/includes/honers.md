@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *2025.06* [President's Scholarship at Peking University](https://english.pku.edu.cn)
 - *2024.07* [AdventureX Hackathon](https://adventure-x.org/) - 1st Place in one track, 2nd Place in two tracks, and 3rd Place in one track (Total of 7 tracks entered)
 - *2023.04* [Third prize of National Digital Economy Innovation and Entrepreneurship Competition](https://www.sohu.com/a/665690540_796223)
 - *2022.12* [Bronze Award of China International College Students' 'Internet+' Innovation and Entrepreneurship Competition](https://cy.ncss.cn)
