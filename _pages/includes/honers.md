@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *2025.07* [Deep Hackathon 2025](https://www.douyin.com/user/MS4wLjABAAAACo8bp7B6-hQ6TUiSV9SxhMu15elfR329GU3YdhU900w) - Bronze Prize
 - *2025.07* [AdventureX Hackathon 2025](https://adventure-x.org/) - 3rd Place in one track (Total of 8 tracks entered)
 - *2025.06* [President's Scholarship at Peking University](https://english.pku.edu.cn)
 - *2024.07* [AdventureX Hackathon 2024](https://adventure-x.org/) - 1st Place in one track, 2nd Place in two tracks, and 3rd Place in one track (Total of 7 tracks entered)
