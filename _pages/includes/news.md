@@ -1,5 +1,5 @@
 # 🔥 News
-- *2025.07*: 🥉My team and I win [Deep Hackathon 2025](https://www.douyin.com/user/MS4wLjABAAAACo8bp7B6-hQ6TUiSV9SxhMu15elfR329GU3YdhU900w) - Bronze Prize
+- *2025.12*: 🥉My team and I win [Deep Hackathon 2025](https://www.douyin.com/user/MS4wLjABAAAACo8bp7B6-hQ6TUiSV9SxhMu15elfR329GU3YdhU900w) - Bronze Prize
 - *2025.07*: 🥉My team and I win [AdventureX Hackathon 2025](https://adventure-x.org/) - 3rd Place in one track (Total of 8 tracks entered)
 - *2025.06*: 🏆 Awarded the President's Scholarship of Peking University
 - *2025.03*: 🎉 One paper is accepted by Nature Communications
