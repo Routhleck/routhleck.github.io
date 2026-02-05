@@ -1,4 +1,6 @@
 # 🔥 News
+- *2026.02*: 🎉 Released [CANNs](https://github.com/Routhleck/canns) v1.0 (stable version), a major milestone of my recent work.
+- *2026.01*: 🏆 Awarded Peking University Quantitative Biology Graduate Scholarship, Third Prize
 - *2025.12*: 🥉My team and I win [Deep Hackathon 2025](https://www.douyin.com/user/MS4wLjABAAAACo8bp7B6-hQ6TUiSV9SxhMu15elfR329GU3YdhU900w) - Bronze Prize
 - *2025.07*: 🥉My team and I win [AdventureX Hackathon 2025](https://adventure-x.org/) - 3rd Place in one track (Total of 8 tracks entered)
 - *2025.06*: 🏆 Awarded the President's Scholarship of Peking University
