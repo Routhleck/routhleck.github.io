@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.05*: 🥇My team and I win "天外家园：The Next Home" Lunar Base Design Challenge · First Place Champion
 - *2026.02*: 🎉 Released [CANNs](https://github.com/Routhleck/canns) v1.0 (stable version), a major milestone of my recent work.
 - *2026.01*: 🏆 Awarded Peking University Quantitative Biology Graduate Scholarship, Third Prize
 - *2025.12*: 🥉My team and I win [Deep Hackathon 2025](https://www.douyin.com/user/MS4wLjABAAAACo8bp7B6-hQ6TUiSV9SxhMu15elfR329GU3YdhU900w) - Bronze Prize
