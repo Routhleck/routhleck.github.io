@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:openreview.net)",
+      "WebFetch(domain:api2.openreview.net)",
+      "Bash(curl -s \"https://api.openreview.net/notes?forum=P138LS8kLr\")",
+      "Bash(curl -s \"https://api2.openreview.net/notes?forum=P138LS8kLr&details=replyCount\")"
+    ]
+  }
+}

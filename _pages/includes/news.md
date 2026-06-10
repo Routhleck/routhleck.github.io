@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.06*: 🎉 One paper is accepted by [CCN 2026](https://2026.ccneuro.org/)
 - *2026.05*: 🥇My team and I win "天外家园：The Next Home" Lunar Base Design Challenge · First Place Champion
 - *2026.02*: 🎉 Released [CANNs](https://github.com/Routhleck/canns) v1.0 (stable version), a major milestone of my recent work.
 - *2026.01*: 🏆 Awarded Peking University Quantitative Biology Graduate Scholarship, Third Prize
