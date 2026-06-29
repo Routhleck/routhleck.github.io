@@ -1,13 +1,30 @@
 # 🔥 News
-- *2026.06*: 🎉 One paper is accepted by [CCN 2026](https://2026.ccneuro.org/)
-- *2026.05*: 🥇My team and I win "天外家园：The Next Home" Lunar Base Design Challenge · First Place Champion
-- *2026.02*: 🎉 Released [CANNs](https://github.com/Routhleck/canns) v1.0 (stable version), a major milestone of my recent work.
-- *2026.01*: 🏆 Awarded Peking University Quantitative Biology Graduate Scholarship, Third Prize
-- *2025.12*: 🥉My team and I win [Deep Hackathon 2025](https://www.douyin.com/user/MS4wLjABAAAACo8bp7B6-hQ6TUiSV9SxhMu15elfR329GU3YdhU900w) - Bronze Prize
-- *2025.07*: 🥉My team and I win [AdventureX Hackathon 2025](https://adventure-x.org/) - 3rd Place in one track (Total of 8 tracks entered)
-- *2025.06*: 🏆 Awarded the President's Scholarship of Peking University
-- *2025.03*: 🎉 One paper is accepted by Nature Communications
-- *2024.07*: 🥇🥈🥈🥉My team and I win [AdventureX Hackathon 2024](https://adventure-x.org/) - 1st Place in one track, 2nd Place in two tracks, and 3rd Place in one track (Total of 7 tracks entered)
-- *2024.06*: 🎉 One paper is accepted by ICML 2024
-- *2024.01*: 🎉 One paper is accepted by ICLR 2024
-- *2023.12*: 🎉 One paper is accepted by eLife
+
+<ul class="news-list">
+  <li><em>2026.06</em>: 🎉 One paper is accepted by <a href="https://2026.ccneuro.org/">CCN 2026</a></li>
+  <li><em>2026.05</em>: 🥇My team and I win "天外家园：The Next Home" Lunar Base Design Challenge · First Place Champion</li>
+  <li><em>2026.02</em>: 🎉 Released <a href="https://github.com/Routhleck/canns">CANNs</a> v1.0 (stable version), a major milestone of my recent work.</li>
+  <li class="news-collapsed"><em>2026.01</em>: 🏆 Awarded Peking University Quantitative Biology Graduate Scholarship, Third Prize</li>
+  <li class="news-collapsed"><em>2025.12</em>: 🥉My team and I win <a href="https://www.douyin.com/user/MS4wLjABAAAACo8bp7B6-hQ6TUiSV9SxhMu15elfR329GU3YdhU900w">Deep Hackathon 2025</a> - Bronze Prize</li>
+  <li class="news-collapsed"><em>2025.07</em>: 🥉My team and I win <a href="https://adventure-x.org/">AdventureX Hackathon 2025</a> - 3rd Place in one track (Total of 8 tracks entered)</li>
+  <li class="news-collapsed"><em>2025.06</em>: 🏆 Awarded the President's Scholarship of Peking University</li>
+  <li class="news-collapsed"><em>2025.03</em>: 🎉 One paper is accepted by Nature Communications</li>
+  <li class="news-collapsed"><em>2024.07</em>: 🥇🥈🥈🥉My team and I win <a href="https://adventure-x.org/">AdventureX Hackathon 2024</a> - 1st Place in one track, 2nd Place in two tracks, and 3rd Place in one track (Total of 7 tracks entered)</li>
+  <li class="news-collapsed"><em>2024.06</em>: 🎉 One paper is accepted by ICML 2024</li>
+  <li class="news-collapsed"><em>2024.01</em>: 🎉 One paper is accepted by ICLR 2024</li>
+  <li class="news-collapsed"><em>2023.12</em>: 🎉 One paper is accepted by eLife</li>
+</ul>
+<button type="button" class="news-toggle" aria-expanded="false" aria-controls="news-collapsed-items">展开更多 ↓</button>
+
+<script>
+  (function () {
+    var list = document.querySelector('.news-list');
+    var btn = document.querySelector('.news-toggle');
+    if (!list || !btn) return;
+    btn.addEventListener('click', function () {
+      var expanded = list.classList.toggle('news-expanded');
+      btn.setAttribute('aria-expanded', expanded ? 'true' : 'false');
+      btn.textContent = expanded ? '收起 ↑' : '展开更多 ↓';
+    });
+  })();
+</script>
