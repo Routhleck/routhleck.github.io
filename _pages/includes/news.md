@@ -1,6 +1,7 @@
 # 🔥 News
 
 <ul class="news-list">
+  <li><em>2026.06</em>: 📄 New preprint on arXiv: <a href="https://arxiv.org/abs/2606.27783">CANNs: A Toolkit for Research on Continuous Attractor Neural Networks</a></li>
   <li><em>2026.06</em>: 🎉 One paper is accepted by <a href="https://2026.ccneuro.org/">CCN 2026</a></li>
   <li><em>2026.05</em>: 🥇My team and I win "天外家园：The Next Home" Lunar Base Design Challenge · First Place Champion</li>
   <li><em>2026.02</em>: 🎉 Released <a href="https://github.com/Routhleck/canns">CANNs</a> v1.0 (stable version), a major milestone of my recent work.</li>
@@ -14,7 +15,7 @@
   <li class="news-collapsed"><em>2024.01</em>: 🎉 One paper is accepted by ICLR 2024</li>
   <li class="news-collapsed"><em>2023.12</em>: 🎉 One paper is accepted by eLife</li>
 </ul>
-<button type="button" class="news-toggle" aria-expanded="false" aria-controls="news-collapsed-items">展开更多 ↓</button>
+<button type="button" class="news-toggle" aria-expanded="false" aria-controls="news-collapsed-items">Show more ↓</button>
 
 <script>
   (function () {
@@ -24,7 +25,7 @@
     btn.addEventListener('click', function () {
       var expanded = list.classList.toggle('news-expanded');
       btn.setAttribute('aria-expanded', expanded ? 'true' : 'false');
-      btn.textContent = expanded ? '收起 ↑' : '展开更多 ↓';
+      btn.textContent = expanded ? 'Show less ↑' : 'Show more ↓';
     });
   })();
 </script>
