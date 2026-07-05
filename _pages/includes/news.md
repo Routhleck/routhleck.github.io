@@ -1,6 +1,7 @@
 # 🔥 News
 
 <ul class="news-list">
+  <li><em>2026.06</em>: 📄 New preprint on arXiv: <a href="https://arxiv.org/abs/2606.30037">Heads, Not Backbones: Output Heads Dominate Architectures on Fat-Tailed Returns</a></li>
   <li><em>2026.06</em>: 📄 New preprint on arXiv: <a href="https://arxiv.org/abs/2606.27783">CANNs: A Toolkit for Research on Continuous Attractor Neural Networks</a></li>
   <li><em>2026.06</em>: 🎉 One paper is accepted by <a href="https://2026.ccneuro.org/">CCN 2026</a></li>
   <li><em>2026.05</em>: 🥇My team and I win "天外家园：The Next Home" Lunar Base Design Challenge · First Place Champion</li>

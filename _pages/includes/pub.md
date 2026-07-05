@@ -72,6 +72,17 @@
   </div>
   </div>
 
+- <div style="display:flex; margin-bottom:15px;">
+  <div style="flex:1;">
+    <span style="font-weight:700; color:#6f42c1; font-size:1.1em;">arXiv</span>
+    <span style="font-size:0.85em; color:#888; margin-left:8px;">2026</span><br>
+    <a href="https://arxiv.org/abs/2606.30037" style="font-size:1.05em; color:#333; text-decoration:none; font-weight:500; line-height:1.4;">Heads, Not Backbones: Output Heads Dominate Architectures on Fat-Tailed Returns</a>
+    <div style="color:#555; margin-top:4px; font-style:italic;">
+      <strong>Sichao He</strong>, Yansong Zhang
+    </div>
+  </div>
+  </div>
+
 <div style="margin-top:20px; font-size:0.9em; color:#666;">
 <sup>†</sup> <em>These authors contributed equally</em>
 </div>
